@@ -10,7 +10,7 @@ Features:
 - Powers the rangefinder with two 18650 lithium-ion cells, to take measurements in the field.
 - App-controlled power supply: start the app to turn the rangefinder on, quit the app to turn it off.
 - Selectable supply voltage: regulated 5V for LRF-series rangefinders or 7.4V (nominal cell voltage) for LRX-series rangefinders.
-- Selectable serial voltage level: UART or RS232 (also suitable for rangefinders configured as RS422)
+- Selectable serial voltage level: UART or RS232 (also suitable for rangefinders configured as RS422).
 - Screw terminals for ground, supply, Rx and Tx lines to easily connect one or more LRF / LRX cables.
 
 ![Flipper Zero Noptel LRF case](images/flipper_zero_noptel_lrf_case.jpg)
@@ -52,7 +52,7 @@ Door at the bottom of the main case body to prevent the Flipper Zero for sliding
 
 ### Top cover
 
-Encloses the electronics on top of the main case body and holds the 18650 cell holder, step-down voltage regulator and voltage selection switch.
+Encloses the electronics on top of the main case body and holds the 18650 cells holder, step-down voltage regulator and voltage selection switch.
 
 ![Top cover](images/flipper_case-Flipper_case_with_LRF_electronics-Top_cover.png)
 
@@ -98,7 +98,7 @@ If your printer can print with more than one filament, you can print the 31 symb
 
 If your printer can only print with one filament, remove the 31 symbols so the top cover bears the markings as recessed engraved symbols.
 
-Alternatively, if you want to remove one or more markings, print the corresponding symbols with the same material as the top cover, so they fill up the recesses and disappear from the final print.
+Alternatively, if you want to remove one or more markings, keep the corresponding symbols and print them with the same material as the top cover, so they fill up the recesses and disappear from the final print.
 
 ![Top cover in PrusaSlicer](images/top_cover_in_prusaslicer.png)
 
@@ -128,7 +128,7 @@ Alternatively, if you want to remove one or more markings, print the correspondi
 
 ### YYNMOS-1 MOSFET driver module
 
-Desolder the screw terminal blocks to reduce the height of the module
+Desolder the screw terminal blocks to reduce the height of the module.
 
 
 ### HW-044 TTL-to-RS232 converter module
@@ -163,7 +163,7 @@ Desolder the DB9 socket and the pins to reduce the height of the module, then re
 
 ![Assembly #4](images/assembly4.jpg)
 
-- Thread the power supply wires going to the cells holder, the LRF supply wire, ground wire, RX wire and Tx wire through the hole in the top cover, then screw the top cover onto the case from the inside using 6 M3 x 10 screws. 
+- Thread the power supply wires going to the cells holder, the LRF supply wire, ground wire, RX wire and Tx wire through the hole in the top cover, then screw the top cover onto the case from the inside using 4 M3 x 10 screws.
 
 ![Assembly #5](images/assembly5.jpg)
 
@@ -171,7 +171,7 @@ Desolder the DB9 socket and the pins to reduce the height of the module, then re
 
 ![Assembly #6](images/assembly6.jpg)
 
-- Connect a voltmeter to the LRF supply terminal block, set the voltage selection switch to 5V, start the app on the Flipper Zero to turn on the power, then adjust the voltage to 5V using the miniature pot on the D-SUN MP1584 module.
+- Connect a voltmeter to the LRF supply terminal block, set the voltage selection switch to 5V, start the app on the Flipper Zero to turn on the supply, then adjust the voltage to 5V using the miniature pot on the D-SUN MP1584 module.
 
 ![Assembly #7](images/assembly7.jpg)
 

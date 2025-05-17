@@ -108,7 +108,8 @@ Alternatively, if you want to remove one or more markings, print the correspondi
 
 | Qty | Part | Image |
 | --- | ---- | ----- |
-| 1 | 0.1"-pitch right angle male header | ![0.1"-pitch right angle male header](images/0.1in_pitch_right_angle_male_header.png) |
+| 1 | 8-pin 0.1"-pitch right angle male header | ![8-pin 0.1"-pitch right angle male header](images/0.1in_pitch_right_angle_male_header-8_pins.png) |
+| 1 | 10-pin 0.1"-pitch right angle male header | ![10-pin 0.1"-pitch right angle male header](images/0.1in_pitch_right_angle_male_header-10_pins.png) |
 | 1 | YYNMOS-1 MOSFET driver module with optocoupler | ![YYNMOS-1](images/yynmos-1.png) |
 | 1 | HW-044 TTL-to-RS232 converter module | ![HW-044](images/hw-044.png) |
 | 1 | D-SUN MP1584 step-down converter module | ![D-SUN MP1584](images/mp1584.png) |

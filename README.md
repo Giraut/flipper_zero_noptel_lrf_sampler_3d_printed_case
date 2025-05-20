@@ -1,5 +1,5 @@
 # Noptel LRF rangefinder sampler - 3D-printed case for the Flipper Zero
-### Version 1.0
+### Version 1.1
 
 A 3D-printed case for the Flipper Zero speficically designed to house the electronics required to make a universal self-contained power supply and serial interface for Noptel LRF and LRX rangefinders.
 

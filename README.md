@@ -1,5 +1,5 @@
 # Noptel LRF rangefinder sampler - 3D-printed case for the Flipper Zero
-### Version 1.2
+### Version 1.3
 
 A 3D-printed case for the Flipper Zero speficically designed to house the electronics required to make a universal self-contained power supply and serial interface for Noptel LRF and LRX rangefinders.
 
@@ -114,6 +114,8 @@ Alternatively, if you want to remove one or more markings, keep the correspondin
 | 1 | HW-044 TTL-to-RS232 converter module | ![HW-044](images/hw-044.png) |
 | 1 | D-SUN MP1584 step-down converter module | ![D-SUN MP1584](images/mp1584.png) |
 | 1 | UM-18650X2 double 18650 cell holder | ![UM-18650X2](images/um-18650x2.png) |
+| 1 | 2A mini blade fuse | ![2A mini blade fuse](images/2A_mini_blade_fuse.png) |
+| 2 | 2.8mm female spade connector | ![2.8mm female spade connector](images/2.8mm_female_spade_connector.png) |
 | 2 | 17SLDDDPC double pole double throw mini slide switch | ![17SLDDDPC](images/17sldddpc.png) |
 | 2 | Pololu #2440 2-pin 5 mm pitch screw terminal block | ![Pololu #2440](images/pololu_2440.png) |
 | 6 | M3 x 10 countersunk screw | ![M3 x 10 countersunk screw](images/m3x10_countersunk.png) |
@@ -167,7 +169,7 @@ Desolder the DB9 socket and the pins to reduce the height of the module, then re
 
 ![Assembly #5](images/assembly5.jpg)
 
-- Connect the cells holder, then wire up and install the D-SUN MP1584 module, 5V-7.4V selection switch and the 2 screw terminal blocks in their respective locations.
+- Connect the cells holder and the fuse using the female spade connectors, then wire up and install the D-SUN MP1584 module, 5V-7.4V selection switch and the 2 screw terminal blocks in their respective locations.
 
 ![Assembly #6](images/assembly6.jpg)
 

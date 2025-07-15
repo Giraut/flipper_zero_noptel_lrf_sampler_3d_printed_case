@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/b6e0d0df-ff3f-4f82-9ec8-fc6dd7197d45
 * [Modules modification](#modules-modification)
 * [Wiring diagram](#wiring-diagram)
 * [Assembly](#assembly)
+* [Accessories](#accessories)
 
 
 
@@ -184,3 +185,38 @@ Desolder the DB9 socket and the pins to reduce the height of the module, then re
 - Install the bottom door using a piece of piano wire as hinge, and the optional lanyard pin.
 
 ![Assembly #9](images/assembly9.jpg)
+
+
+
+## Accessories
+
+### Dummy 18650 cell connector for external power supply
+
+Use one dummy 18650 cell connector to supply 8-30V to the first cell holder's terminals, and another to bridge the terminals in the second cell holder.
+
+![Dummy 18650 cell connectors #1](images/dummy_18650_cell_connectors1.jpg)
+
+#### Files
+
+![Dummy 18650 cell connector](images/dummy_18650_cell_connector.png)
+
+- [FreeCAD model](dummy_18650_cell_connector.FCStd)
+- [STEP model](dummy_18650_cell_connector.step)
+
+#### Extra components needed
+
+| Qty | Part | Image |
+| --- | ---- | ----- |
+| 1 | M4 low-profile hex head screw (length < 30mm) | ![M4 low-profile hex head](images/m4_low_profile_hex_head.png) |
+| 1 | M6 countersunk screw (length < 30mm) | ![M6 countersunk screw](images/m6_countersunk.png) |
+
+#### Assembly
+
+- Thread the red and black wires through the side hole.
+- Make the red wire poke out the hole on the side of the M4 screw hole. Fold the strands over 2 or 3 times until they fill up the side hole.
+- Make the black wire poke out the hole on the side of the M6 screw hole. Fold the strands over 2 or 3 times until they fill up the side hole.
+- Thread and lightly tighten both screws, locking the respective wires in place and making contact with the strands.
+
+![Dummy 18650 cell connectors #2](images/dummy_18650_cell_connectors2.jpg)
+
+![Dummy 18650 cell connectors #3](images/dummy_18650_cell_connectors3.jpg)
